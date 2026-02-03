@@ -14,20 +14,6 @@ This project introduces the basics of:
 
 ---
 
-## 📌 Description (FR)
-
-**Born2beRoot** est un projet d’administration système de **l’école 42**.  
-L’objectif est de mettre en place un **serveur Linux sécurisé** via une machine virtuelle, en respectant des règles strictes de configuration et de sécurité.
-
-Ce projet permet de découvrir :
-- La virtualisation
-- L’administration système Linux
-- Les politiques de sécurité
-- La gestion des utilisateurs et des permissions
-- L’automatisation avec cron
-
----
-
 ## ⚙️ Technical Setup
 
 - **Operating System**: Debian (stable)
